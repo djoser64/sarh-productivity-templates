@@ -11,13 +11,13 @@ Download the **Free Edition** directly from this repository to test the layout, 
 
 | Template Name | Free Edition (GitHub Download) | Pro Edition (Full Dashboard) | Price |
 | :--- | :--- | :--- | :---: |
-| **Small Business & E-Commerce Dashboard** | [Download Free (.xlsx)](./excel-templates/Ecommerce_Dashboard_Lite_Free.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$19.99** |
-| **Client CRM & Project Tracker** | [Download Free (.xlsx)](./excel-templates/Client_CRM_Project_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$11.99** |
-| **Personal Budget & Finance Dashboard** | [Download Free (.xlsx)](./excel-templates/Personal_Budget_Finance_Dashboard_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$10.99** |
-| **Content Calendar & Social Media Planner** | [Download Free (.xlsx)](./excel-templates/Content_Calendar_Planner_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
-| **Subscription & Bill Tracker** | [Download Free (.xlsx)](./excel-templates/Subscription_Bill_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
-| **Habit & Monthly Budget Tracker** | [Download Free (.xlsx)](./excel-templates/Habit_and_Monthly_Budget_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
-| **Debt Payoff Tracker** | [Download Free (.xlsx)](./excel-templates/Debt_Payoff_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
+| [Small Business & E-Commerce Dashboard](./excel-templates/ecommerce-dashboard-lite.md) | [Download Free (.xlsx)](./excel-templates/Ecommerce_Dashboard_Lite_Free.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$19.99** |
+| [Client CRM & Project Tracker](./excel-templates/client-crm-project-tracker.md) | [Download Free (.xlsx)](./excel-templates/Client_CRM_Project_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$11.99** |
+| [Personal Budget & Finance Dashboard](./excel-templates/personal-budget-finance-dashboard.md) | [Download Free (.xlsx)](./excel-templates/Personal_Budget_Finance_Dashboard_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$10.99** |
+| [Content Calendar & Social Media Planner](./excel-templates/content-calendar-social-media-planner.md) | [Download Free (.xlsx)](./excel-templates/Content_Calendar_Planner_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
+| [Subscription & Bill Tracker](./excel-templates/subscription-bill-tracker.md) | [Download Free (.xlsx)](./excel-templates/Subscription_Bill_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
+| [Habit & Monthly Budget Tracker](./excel-templates/habit-monthly-budget-tracker.md) | [Download Free (.xlsx)](./excel-templates/Habit_and_Monthly_Budget_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
+| [Debt Payoff Tracker](./excel-templates/debt-payoff-tracker.md) | [Download Free (.xlsx)](./excel-templates/Debt_Payoff_Tracker_FREE.xlsx) | [**Get Pro Edition**](https://payhip.com/sarhtech) | **$9.99** |
 
 ---
 
@@ -25,7 +25,7 @@ Download the **Free Edition** directly from this repository to test the layout, 
 
 | System Name | Free Starter Blueprint | Full Automated System | Price |
 | :--- | :--- | :--- | :---: |
-| **MarketPulse Agent OS** *(Notion + Make Automation)* | [View Lite Blueprint & Guide](./notion-make-automation) | [**Get Full System**](https://payhip.com/sarhtech) | **$24.94** |
+| [MarketPulse Agent OS](./notion-templates/marketpulse-agent-os.md) *(Notion + Make Automation)* | [View Lite Blueprint & Guide](./notion-make-automation) | [**Get Full System**](https://payhip.com/sarhtech) | **$24.94** |
 
 ---
 
@@ -35,14 +35,14 @@ Complete, ready-to-duplicate Notion workspaces designed for founders, freelancer
 
 | Notion System | Description | Official Store Link | Price |
 | :--- | :--- | :--- | :---: |
-| **Meridian — OmniCRM & Automated Invoicing OS** | Complete client pipeline, project management, and invoicing hub | [**Get Template**](https://payhip.com/sarhtech) | **$79.98** |
-| **SmartLead AI — CRM & Lead Qualification OS** | AI-driven lead scoring, outreach tracking, and sales CRM | [**Get Template**](https://payhip.com/sarhtech) | **$29.99** |
-| **SelfMade Hub** | All-in-one Notion workspace for freelancers & solo creators | [**Get Template**](https://payhip.com/sarhtech) | **$24.94** |
-| **Atomic Habits OS** | Daily habit tracking, streaks, and behavioral goal system | [**Get Template**](https://payhip.com/sarhtech) | **$19.98** |
-| **LifeBalance OS** | Holistic life planner covering health, finance, career, and goals | [**Get Template**](https://payhip.com/sarhtech) | **$15.98** |
-| **Second Brain OS** | PARA-method knowledge management, notes, and resource vault | [**Get Template**](https://payhip.com/sarhtech) | **$9.98** |
-| **SoloFlow OS** | Streamlined task, sprint, and daily focus manager for solopreneurs | [**Get Template**](https://payhip.com/sarhtech) | **$7.99** |
-| **SARH Content Hub** | Multi-platform content ideation, scripting, and publishing calendar | [**Get Template**](https://payhip.com/sarhtech) | **$6.99** |
+| [Meridian — OmniCRM & Automated Invoicing OS](./notion-templates/meridian-omnicrm-os.md) | Complete client pipeline, project management, and invoicing hub | [**Get Template**](https://payhip.com/sarhtech) | **$79.98** |
+| [SmartLead AI — CRM & Lead Qualification OS](./notion-templates/smartlead-ai-crm-os.md) | AI-driven lead scoring, outreach tracking, and sales CRM | [**Get Template**](https://payhip.com/sarhtech) | **$29.99** |
+| [SelfMade Hub](./notion-templates/selfmade-hub-os.md) | All-in-one Notion workspace for freelancers & solo creators | [**Get Template**](https://payhip.com/sarhtech) | **$24.94** |
+| [Atomic Habits OS](./notion-templates/atomic-habits-os.md) | Daily habit tracking, streaks, and behavioral goal system | [**Get Template**](https://payhip.com/sarhtech) | **$19.98** |
+| [LifeBalance OS](./notion-templates/lifebalance-os.md) | Holistic life planner covering health, finance, career, and goals | [**Get Template**](https://payhip.com/sarhtech) | **$15.98** |
+| [Second Brain OS](./notion-templates/second-brain-os.md) | PARA-method knowledge management, notes, and resource vault | [**Get Template**](https://payhip.com/sarhtech) | **$9.98** |
+| [SoloFlow OS](./notion-templates/soloflow-os.md) | Streamlined task, sprint, and daily focus manager for solopreneurs | [**Get Template**](https://payhip.com/sarhtech) | **$7.99** |
+| [SARH Content Hub](./notion-templates/sarh-content-hub.md) | Multi-platform content ideation, scripting, and publishing calendar | [**Get Template**](https://payhip.com/sarhtech) | **$6.99** |
 
 ---
 
